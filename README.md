@@ -1,6 +1,6 @@
-# 🇮🇳 India Demographics Dashboard using Streamlit & Plotly
+# In *India Demographics Dashboard* using *Streamlit* & *Plotly*
 
-This interactive web app visualizes district-level demographic data across India using intuitive map-based charts. Built using **Streamlit** and **Plotly**, users can analyze various aspects such as education level, gender distribution, occupational trends, and religious population with just a few clicks.
+This interactive **Web app** visualizes ***District-level demographic data*** across India using ***intuitive map-based charts***. Built using **Streamlit** and **Plotly**, users can analyze various aspects such as ***Education level***, ***Gender distribution***, ***Occupational Trends***, and ***Religious Population*** and more with just a few clicks.
 
 ## 🔍 Features
 
